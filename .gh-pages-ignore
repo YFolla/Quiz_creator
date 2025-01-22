@@ -1,0 +1,21 @@
+# Development files
+node_modules/
+src/
+public/
+test/
+
+# Config files
+.gitignore
+.gh-pages-ignore
+.env*
+*.config.js
+*.lock
+package-lock.json
+
+# IDE files
+.idea/
+.vscode/
+
+# Other
+README.md
+*.log 
